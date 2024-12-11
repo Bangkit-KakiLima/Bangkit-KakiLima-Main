@@ -12,7 +12,7 @@ Here is our main repository for the Bangkit 2024 Capstone project - Cloud Comput
 |Dieka Septiani Safitri	|C249B4KX1124	|Cloud Computing|
 |Erie Rizky Pratama	|M764B4KY1273|Machine Learning|
 |Fadhlur Rahman 'Aulia Abdullah	|C012B4KY1325|Cloud Computing|
-|Rahmawati Agustin |M491B4KY0145|Mobile Development|
+|Rahmawati Agustin |A317B4KX3636|Mobile Development|
 |Rahnia Maulidina	|A161B4KX3640	|Mobile Development|
 |Wildan Rahmantya Andalaluna	|M011B4KY4483|Machine Learning|
 
