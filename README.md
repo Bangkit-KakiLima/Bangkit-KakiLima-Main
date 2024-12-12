@@ -20,9 +20,11 @@ Here is our main repository for the Bangkit 2024 Capstone project - Cloud Comput
 Ping! - Kaki Lima App is an innovative solution designed to empower street vendors and improve accessibility for customers seeking local, authentic food and goods. This project aims to bridge the gap between traditional street vending and modern technology, making it easier for vendors and customers to connect, transact, and thrive in an increasingly digital world.
 
 ## App Overview
+Here are the overview of the application:
 ![Estate](https://github.com/user-attachments/assets/635cd281-fa04-429c-8612-c09022c18823)
 
 ## Userflow
+Here is the flow of user utilizations within the app:
 ![Estate](https://github.com/rhma23/image/blob/main/FlowDiagram_P!NG_BangkitProject.jpg)
 
 
