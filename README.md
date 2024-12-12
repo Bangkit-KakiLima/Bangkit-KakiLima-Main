@@ -38,6 +38,7 @@ Here is the flow of user utilizations within the app:
 
 ## API Documentations
 Full API endpoints Documentation of this project can be accessed in this link:
+
 [Api Documentation Endpoint](https://documenter.getpostman.com/view/33474817/2sAYHwJjzT)
 
 ## Datasets
@@ -47,10 +48,12 @@ Here is dataset link that used in ML model training of this project:
 
 ## Figma Design 
 Here is the Figma design as a protoype of the application:
+
 [Figma Design](https://www.figma.com/design/5OXe78qAucHO8MPDIi31dt/P!NG---Bangkit-Project?node-id=0-1&t=1DjGrDaTO9LC5gVn-1)
 
 ## Deployment 
 Download Link APK:
+
 [Ping! - KakiLima apps](https://drive.google.com/drive/folders/1CpblVxEYDjEnGHq_DQk4uV60gdItOPc3?usp=sharing)
 
 
