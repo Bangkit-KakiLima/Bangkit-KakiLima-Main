@@ -23,7 +23,7 @@ Ping! - Kaki Lima App is an innovative solution designed to empower street vendo
 ![Estate](https://github.com/user-attachments/assets/635cd281-fa04-429c-8612-c09022c18823)
 
 ## Userflow
-![Estate](https://github.com/user-attachments/assets/635cd281-fa04-429c-8612-c09022c18823)
+![Estate](https://github.com/rhma23/image/blob/main/FlowDiagram_P!NG_BangkitProject.jpg)
 
 
 ## Repositories
