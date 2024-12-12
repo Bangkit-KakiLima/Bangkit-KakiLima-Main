@@ -41,7 +41,7 @@ Here is dataset link that used in ML model training of this project:
 
 ## Figma Design 
 Here is the Figma design as a protoype of the application:
-[Figma Design](https://www.figma.com/design/HG4Z1thToQON2Xgd8mDCe4/Capstone_Project?node-id=0-1&t=65p7YAJliLScK18Q-0)
+[Figma Design](https://www.figma.com/design/5OXe78qAucHO8MPDIi31dt/P!NG---Bangkit-Project?node-id=0-1&t=1DjGrDaTO9LC5gVn-1)
 
 ## Deployment 
 Download Link APK:
