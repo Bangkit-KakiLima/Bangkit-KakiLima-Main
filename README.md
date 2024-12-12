@@ -25,7 +25,8 @@ Here are the overview of the application:
 
 ## Userflow
 Here is the flow of user utilizations within the app:
-![Estate](https://github.com/rhma23/image/blob/main/FlowDiagram_P!NG_BangkitProject.jpg)
+![FlowDiagram_P!NG_BangkitProject](https://github.com/user-attachments/assets/6606b5ed-5445-4dd7-a0b9-0bd508d04e7a)
+
 
 
 ## Repositories
