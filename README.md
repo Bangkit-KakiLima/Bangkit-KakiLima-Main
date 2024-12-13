@@ -54,7 +54,7 @@ Here is the Figma design as a protoype of the application:
 ## Deployment 
 Download Link APK:
 
-[Ping! - KakiLima apps](https://drive.google.com/drive/folders/1CpblVxEYDjEnGHq_DQk4uV60gdItOPc3?usp=sharing)
+[Ping! - KakiLima apps](https://drive.google.com/drive/folders/18rygN_m67GqVWZLyj4v4l8gTciY38e46?usp=sharing)
 
 
 
